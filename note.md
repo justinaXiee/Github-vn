@@ -2,7 +2,9 @@
 
 Repository(Repo)
 Branch
+Conflict
 
+#Commands
 - git init
 - git status
 - git add 
